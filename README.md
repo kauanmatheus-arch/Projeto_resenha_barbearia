@@ -46,3 +46,9 @@ function atualizarTudo() {
     btnAgendar.href = `[https://wa.me/5511999999999?text=$](https://wa.me/5511999999999?text=$){encodeURIComponent(textoMsg)}`;
   }
 }
+
+---
+
+## 🔗 5. Como Testar e Acessar a Solução
+* **Link da Aplicação ao Vivo:** [Acessar Projeto Resenha Barbearia](https://simplified-basis-644170.framer.app)
+
