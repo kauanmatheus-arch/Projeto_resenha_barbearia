@@ -76,5 +76,3 @@ document.addEventListener("DOMContentLoaded", function() {
   inputData.addEventListener('change', atualizarTudo);
   selectHorario.addEventListener('change', atualizarTudo);
 });
-🔗 5. Como Testar e Acessar a Solução
-Link da Aplicação ao Vivo: Acessar Projeto Resenha Barbearia
